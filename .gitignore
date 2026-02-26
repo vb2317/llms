@@ -1,0 +1,14 @@
+# Virtual environments
+steerling-venv/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
